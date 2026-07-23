@@ -10,6 +10,16 @@
 [![Deadline Survival Official Trailer](https://img.youtube.com/vi/Dh4W5Y8yaaY/maxresdefault.jpg)](https://youtu.be/Dh4W5Y8yaaY)
 ---
 
+##  Screenshot Gameplay
+
+<img width="1919" height="1079" alt="Screenshot 2026-07-23 171926" src="https://github.com/user-attachments/assets/9cf0b412-f16f-494e-9ddf-297d85bbcc44" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-23 171638" src="https://github.com/user-attachments/assets/dbe0fce0-b2b8-4a6a-af88-352196c64eb1" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-23 171615" src="https://github.com/user-attachments/assets/fb24b8b6-cb8d-4741-850b-7c7c373e63fe" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-23 171714" src="https://github.com/user-attachments/assets/2f1499f5-fefa-453f-a9b6-4a997336362b" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-23 171643" src="https://github.com/user-attachments/assets/2d0bb80d-0acf-4b68-99a7-08b8163088a0" />
+
+---
+
 ##  Fitur & Sistem Utama Game
 
 ###  1. Enemy AI (Finite State Machine / FSM)
