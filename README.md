@@ -50,7 +50,7 @@ Sistem manajemen inventaris terintegrasi yang memudahkan pemain dalam mengumpulk
 ---
 
 ### 4. Crafting System
-Sistem pembuatan item (*crafting*) yang memungkinkan pemain menggabungkan berbagai bahan baku (*raw materials*) dari *inventory* untuk menciptakan item baru, seperti senjata bertahan hidup, item pemulih kesehatan (*medkit*), atau kunci untuk membuka akses ruangan baru.
+Sistem pembuatan item (*crafting*) yang memungkinkan pemain menggabungkan berbagai bahan baku (*raw materials*) dari *inventory* untuk menciptakan item baru, seperti senjata bertahan hidup yang lebih bagus lagi dari durabilitas sampai damage yang dihasilkan.
 
 ---
 
