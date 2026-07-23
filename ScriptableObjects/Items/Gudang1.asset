@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2885ac7e7f8891469ac6ac6028cccd1, type: 3}
+  m_Name: Gudang1
+  m_EditorClassIdentifier: 
+  keyName: Warehoue 1 Key
+  id: 1
+  keySprite: {fileID: 21300000, guid: ec54f01289981074cb59ebf10b3faea4, type: 3}
+  pickupPrefab: {fileID: 5082080459999558071, guid: ac618ee0ee0189c4dbf845ea99140155,
+    type: 3}

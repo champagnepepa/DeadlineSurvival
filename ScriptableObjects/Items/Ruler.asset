@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f3c1e2d7c28b24499b126bd9a7e02f3, type: 3}
+  m_Name: Ruler
+  m_EditorClassIdentifier: 
+  previewPrefab: {fileID: 769915554358303414, guid: 0a4b126d06fb75c43953f86c0311ecab,
+    type: 3}
+  name: Ruler
+  Icon: {fileID: 21300000, guid: 7047710961c425c48b9ebaa4046aea29, type: 3}
+  prefab: {fileID: 769915554358303414, guid: ee807d18b7fc1f74ea8ecc3162579ecf, type: 3}
+  stackMax: 1
+  description: 
+  itemPendingConsumption: {fileID: 0}
+  isConsumable: 0
+  healthEffect: 0
+  caloriesEffect: 0
+  hydrationEffect: 0
+  handPrefab: {fileID: 769915554358303414, guid: 9127b4537910e134a9c4e08d8f3cf4f0,
+    type: 3}
+  pickupPrefab: {fileID: 769915554358303414, guid: ee807d18b7fc1f74ea8ecc3162579ecf,
+    type: 3}
+  itemType: 0

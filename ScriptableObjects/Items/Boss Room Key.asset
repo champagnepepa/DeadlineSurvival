@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f3c1e2d7c28b24499b126bd9a7e02f3, type: 3}
+  m_Name: Boss Room Key
+  m_EditorClassIdentifier: 
+  previewPrefab: {fileID: 3418221052809301182, guid: 7ca237998d82b544280e061204d6b33f,
+    type: 3}
+  name: Boss Room Key
+  Icon: {fileID: 21300000, guid: 49d6f31458f92964a833aa65b976b610, type: 3}
+  prefab: {fileID: 3418221052809301182, guid: d0910e2a794f72544a387152ee80dc15, type: 3}
+  stackMax: 1
+  description: 
+  itemPendingConsumption: {fileID: 0}
+  isConsumable: 0
+  healthEffect: 0
+  caloriesEffect: 0
+  hydrationEffect: 0
+  handPrefab: {fileID: 0}
+  pickupPrefab: {fileID: 3418221052809301182, guid: d0910e2a794f72544a387152ee80dc15,
+    type: 3}
+  itemType: 3

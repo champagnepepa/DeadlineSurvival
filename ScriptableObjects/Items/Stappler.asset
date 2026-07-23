@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f3c1e2d7c28b24499b126bd9a7e02f3, type: 3}
+  m_Name: Stappler
+  m_EditorClassIdentifier: 
+  previewPrefab: {fileID: 5817462307438385903, guid: 1dc06a2f41b46ce45908cc2b567176b5,
+    type: 3}
+  name: Stapler
+  Icon: {fileID: 21300000, guid: 7f399ef26234d7246a963d80b8f407b3, type: 3}
+  prefab: {fileID: 5817462307438385903, guid: ca36b0e2209642f43ba21b3dbaf3bd10, type: 3}
+  stackMax: 1
+  description: 
+  itemPendingConsumption: {fileID: 0}
+  isConsumable: 0
+  healthEffect: 0
+  caloriesEffect: 0
+  hydrationEffect: 0
+  handPrefab: {fileID: 0}
+  pickupPrefab: {fileID: 5817462307438385903, guid: ca36b0e2209642f43ba21b3dbaf3bd10,
+    type: 3}
+  itemType: 0

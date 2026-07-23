@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f3c1e2d7c28b24499b126bd9a7e02f3, type: 3}
+  m_Name: Meeting Room
+  m_EditorClassIdentifier: 
+  previewPrefab: {fileID: 0}
+  name: Meeting Room Key
+  Icon: {fileID: 21300000, guid: ec54f01289981074cb59ebf10b3faea4, type: 3}
+  prefab: {fileID: 399459223036942453, guid: e5e498295ee22114db6d0dba22c7adca, type: 3}
+  stackMax: 1
+  description: 
+  associatedKey: {fileID: 11400000, guid: c5668f458f463924ea80c073af27f6f4, type: 2}
+  itemPendingConsumption: {fileID: 0}
+  isConsumable: 0
+  healthEffect: 0
+  caloriesEffect: 0
+  hydrationEffect: 0
+  handPrefab: {fileID: 0}
+  pickupPrefab: {fileID: 399459223036942453, guid: e5e498295ee22114db6d0dba22c7adca,
+    type: 3}
+  itemType: 3

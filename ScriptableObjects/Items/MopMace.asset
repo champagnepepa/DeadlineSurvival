@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f3c1e2d7c28b24499b126bd9a7e02f3, type: 3}
+  m_Name: MopMace
+  m_EditorClassIdentifier: 
+  previewPrefab: {fileID: 0}
+  name: Mop Mace
+  Icon: {fileID: 21300000, guid: eabf2ead8b054bf4aa2cad495a6898dd, type: 3}
+  prefab: {fileID: 9213864907067148700, guid: dc537ec2742a7cf48bb9e0dfd59ca621, type: 3}
+  stackMax: 1
+  description: 
+  itemPendingConsumption: {fileID: 0}
+  isConsumable: 0
+  healthEffect: 0
+  caloriesEffect: 0
+  hydrationEffect: 0
+  handPrefab: {fileID: 9213864907067148700, guid: 77cff34a94d72fd469b84c43e231c440,
+    type: 3}
+  pickupPrefab: {fileID: 9213864907067148700, guid: dc537ec2742a7cf48bb9e0dfd59ca621,
+    type: 3}
+  itemType: 0
