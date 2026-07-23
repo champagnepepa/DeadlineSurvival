@@ -8,7 +8,6 @@
 **Deadline Survival** adalah game *3D First-Person Survival Horror* yang dikembangkan menggunakan Unity Engine dan bahasa pemrograman C#. Game ini menceritakan tentang seorang karyawan yang terjebak di dalam gedung perkantoran dan harus bertahan hidup serta melarikan diri dari kejaran musuh (zombie). Proyek ini berfokus pada implementasi kecerdasan buatan (*Artificial Intelligence*) berbasis **Finite State Machine (FSM)** serta mekanisme *survival* seperti *inventory management*, *crafting*, dan *melee combo combat system*.
 
 [![Deadline Survival Official Trailer](https://img.youtube.com/vi/Dh4W5Y8yaaY/maxresdefault.jpg)](https://youtu.be/Dh4W5Y8yaaY)
-*📌 Klik gambar di atas untuk menonton Official Game Trailer di YouTube.*
 ---
 
 ##  Fitur & Sistem Utama Game
