@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 39b4dc7021052dd48bd81319fcb4ce70
+  - enabled: 1
+    path: Assets/Scenes/Lantai1.unity
+    guid: 13502cf9b992c7544a2283fe0d6b0f2d
+  - enabled: 1
+    path: Assets/Scenes/Lantai2.unity
+    guid: 90038efc2d7ac5842af0d8c36577dafd
+  - enabled: 1
+    path: Assets/Scenes/Lantai3.unity
+    guid: 5e487eb3dcc8f8a4b8ac984611603d08
+  - enabled: 1
+    path: Assets/Scenes/Lantai4.unity
+    guid: 79b575fdc97139e4ba281370555daf24
+  - enabled: 1
+    path: Assets/Scenes/Lantai5.unity
+    guid: c6d4085b9f841bd42b6f0bf75fa2fcb8
+  m_configObjects: {}
