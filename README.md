@@ -69,4 +69,3 @@ Sistem pembuatan item (*crafting*) yang memungkinkan pemain menggabungkan berbag
 ## Penulis / Author
 
 * **Nama:** Muhammad Khansa Syahrizal Azra
-* **Institusi:** Universitas AMIKOM Yogyakarta
