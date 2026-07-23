@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9213864907067148700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6434262896470807459}
+  - component: {fileID: 1262395175156102716}
+  - component: {fileID: 3193677297307379190}
+  - component: {fileID: 4259464813991916003}
+  - component: {fileID: 3485322293913594345}
+  - component: {fileID: -2381621349344875338}
+  - component: {fileID: -5601037152146662920}
+  m_Layer: 0
+  m_Name: Mop Mace
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6434262896470807459
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213864907067148700}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7069834, y: 0, z: 0, w: 0.7072302}
+  m_LocalPosition: {x: -36.5, y: 2.6, z: 19.033318}
+  m_LocalScale: {x: 3.736071, y: 9.396879, z: 7.1985583}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
+--- !u!33 &1262395175156102716
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213864907067148700}
+  m_Mesh: {fileID: 7807538432633192378, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+--- !u!23 &3193677297307379190
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213864907067148700}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -7198559261415225722, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: -6629797300637803691, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: -6922793697723135513, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: -3846018093981099296, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: -8274133419916619345, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: -6478536213147159724, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: 4874126678125670354, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: -6087771358165109452, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: 6699446615349125189, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: 880774007180850119, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: 1886820026795636259, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: 3780671244086486322, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: 3016479151454471876, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: -5605289326131794027, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: 99656467281103303, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: -4246479402191905792, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  - {fileID: 637949407474519127, guid: 7af1a0ae9b424a94fb582da97cf78be6, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &4259464813991916003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213864907067148700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 510127580b0c65e459ce5f5560ba7f98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: Craft2
+  itemScriptableObject: {fileID: 11400000, guid: 9b43cbce8cd075443afa7a09c77cc9ce,
+    type: 2}
+--- !u!54 &3485322293913594345
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213864907067148700}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &-2381621349344875338
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213864907067148700}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.39120018, y: 0.022158753, z: 0.015891476}
+  m_Center: {x: 0.058295984, y: -0.0009242528, z: 0.003465903}
+--- !u!114 &-5601037152146662920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213864907067148700}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outlineMode: 0
+  outlineColor: {r: 1, g: 0.5138539, b: 0, a: 1}
+  outlineWidth: 10
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
