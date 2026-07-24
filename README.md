@@ -79,3 +79,11 @@ Sistem pembuatan item (*crafting*) yang memungkinkan pemain menggabungkan berbag
 ## Penulis / Author
 
 * **Nama:** Muhammad Khansa Syahrizal Azra
+
+## Drive Project
+
+* https://drive.google.com/drive/folders/16C3rGh-XkG65AsDcaRfhDNmhGvm4BDxt?usp=drive_link
+
+## Itch.io
+
+* https://wakelate-studio.itch.io/deadline-survival
